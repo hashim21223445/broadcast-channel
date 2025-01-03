@@ -151,7 +151,7 @@
     "rollup": "4.19.0",
     "testcafe": "3.6.2",
     "ts-node": "10.9.2",
-    "typescript": "5.5.3",
+    "typescript": "5.7.2",
     "uglify-js": "3.19.0",
     "watchify": "4.0.0",
     "webpack": "5.93.0",
