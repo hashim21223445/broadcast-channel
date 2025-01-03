@@ -113,7 +113,7 @@
     "@babel/plugin-transform-runtime": "7.24.7",
     "@babel/polyfill": "7.12.1",
     "@babel/preset-env": "7.24.8",
-    "@babel/types": "7.24.9",
+    "@babel/types": "7.26.3",
     "@rollup/plugin-terser": "0.4.4",
     "@types/core-js": "2.5.8",
     "assert": "2.1.0",
