@@ -19,6 +19,6 @@
   "devDependencies": {
     "mocha": "8.4.0",
     "node": "13.14.0",
-    "spectron": "14.0.0"
+    "spectron": "16.0.0"
   }
 }
